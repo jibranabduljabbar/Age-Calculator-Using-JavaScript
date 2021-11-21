@@ -1,0 +1,41 @@
+#head{
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#short{
+    color: rgb(172, 171, 171);
+    font-size: 12px;
+    line-height: 10px;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#inp{
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+#btn{
+    margin: 10px 10px 10px -10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
+
+#main{
+    margin-top: 160px;
+    background-color: black;
+    padding: 50px;
+}
+
+#Output{
+    margin: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
